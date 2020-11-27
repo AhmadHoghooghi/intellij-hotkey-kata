@@ -11,7 +11,7 @@ public class Main {
     public static void main(String[] args) {
         //use f2 to jump to next problem
         //	use alt + enter to fix everything like change variable type, then use it again for diamond syntax
-        List<String> keyToValue = new HashMap<String, String>();
+        // List<String> keyToValue = new HashMap<String, String>();
 
         List<String> strings = Collections.singletonList("a");
         //use alt+enter for replace for with for each
