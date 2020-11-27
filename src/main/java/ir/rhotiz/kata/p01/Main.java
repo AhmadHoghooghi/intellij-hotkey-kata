@@ -1,8 +1,6 @@
-package ir.rhotiz.kata;
+package ir.rhotiz.kata.p01;
 
-import java.util.Arrays;
 import java.util.Collections;
-import java.util.HashMap;
 import java.util.List;
 
 public class Main {
